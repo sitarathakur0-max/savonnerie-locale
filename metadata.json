@@ -1,0 +1,7 @@
+{
+  "name": "Savonnerie Locale",
+  "description": "Handmade soaps, scented products and everyday personal-care creations from a small artisan soap maker in Marseille, France.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
